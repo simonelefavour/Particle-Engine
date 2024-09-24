@@ -2,7 +2,7 @@
  * Coder: Simone LeFavour
  * Date: Sept. 23, 2024
  * Description: Particle Engine Project II Coding III, update of Particle Engine I with different interactions. 
-mouse Pressed:
+mouse pressed:
     circle: changes color random
     square: changes from square to star
     heart: starts spinning
