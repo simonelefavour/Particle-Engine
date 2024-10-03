@@ -12,7 +12,7 @@ key pressed:
     heart: 'h' changes color to red
 
     space bar: makes everything disappear and reappear
-    r: resets speed of everything
+    r: resets speed of everything - adding a comment
  */
 
 package com.particle_engine ;
